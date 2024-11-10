@@ -2,6 +2,7 @@
 <H3>NAME: KEERTHANA S</H3>
 <H3>REGISTER NO.: 212223240070</H3>
 <H3>DATE:</H3>
+<br>
 
 ## AIM:
  To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -17,7 +18,7 @@
 <br>
 
 ## PROCEDURE:
- For X-Axis Assembly
+ ## For X-Axis Assembly
 
    1.	Select X-Axis Assembly from the visible list.
 
